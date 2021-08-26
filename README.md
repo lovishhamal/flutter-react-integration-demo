@@ -1,6 +1,6 @@
 # Documentation
 
-## integratinng webview
+## integrating webview
 
 In order to integrate flutter with react we have used a package called webview_flutter.
 
