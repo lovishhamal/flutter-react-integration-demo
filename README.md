@@ -3,7 +3,7 @@
 ## Project setup
 1. Create a folder where you want to download the project.
 2. Copy the https link from Code.
-3. Cd into the folder and type git clone <https-link>
+3. Cd into the folder and type (git clone link).
 4. Cd into flutter-react-integration-demo project and type flutter pub get
 5. Run the project using flutter run
    By default flutter runs on web,
