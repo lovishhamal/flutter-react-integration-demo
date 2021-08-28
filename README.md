@@ -1,5 +1,10 @@
 # Documentation
 
+## Project setup
+
+Install flutter and dart on your machine.
+Create a flutter project using 'flutter create app' command.
+
 ## Integrating webview
 
 In order to integrate webview in flutter we have used a package called webview_flutter.
@@ -31,3 +36,4 @@ In order to solve this problem we can take the approach of conditional import. H
 # ScreenShots
 ![Simulator Screen Shot - iPhone 11 - 2021-08-26 at 19 52 50](https://user-images.githubusercontent.com/40027788/130977820-bdc5aebe-bab7-4d3d-957e-8cc2a3c061a5.png)
 ![Simulator Screen Shot - iPhone 11 - 2021-08-26 at 19 53 14](https://user-images.githubusercontent.com/40027788/130977849-40415323-5a1f-4743-8e95-740850f37644.png)
+<img width="1198" alt="Screen Shot 2021-08-28 at 18 57 27" src="https://user-images.githubusercontent.com/40027788/131219111-581cc68e-498b-426b-92f0-f8949506f9e2.png">
