@@ -19,7 +19,7 @@ This data is then loaded by the controller to render the html.
 Through many testings and trying different ways of using same code base to integrate react on all platforms. The best approach to integrate react ion web is through flutter's default IFrame. The iframe takes the same index.html from assets folder and renders the html.
 
 ## Problems while trying to integrate react on all platforms with single code base
-The main problems that came across while trying to integrate react on flutter was the package support. Since flutter's webview package didnot support on web
+The main problem that came across while trying to integrate react on flutter was the package support. Since flutter's webview package didnot support on web
 and dart:html was not supported on mobile there were many errors regarding unsupported platforms.
 Flutter also doesnot have a good concept of platform based import or dynamic import.
 While trying to import dart:html it caused application to crash because dart:html is only supported on web. This can cause a huge problem if different packages for both mobile and web needs to be used on single code base.
