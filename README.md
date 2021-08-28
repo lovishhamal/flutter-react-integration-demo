@@ -1,6 +1,6 @@
 # Documentation
 
-## integrating webview
+## Integrating webview
 
 In order to integrate webview in flutter we have used a package called webview_flutter.
 
