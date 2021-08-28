@@ -6,6 +6,8 @@ In order to integrate webview in flutter we have used a package called webview_f
 
 The first screen in the app represents a url loader which loads a website in the app. Here, the webview package provides a widget which takes initialUrl as a parameter and expects a valid url. To enable javascript in the website it expects javascript parameter to be unrestricted.
 
+On web, The screen represents flutter's integration with react.
+
 ## Integrating react on mobile
 Here before we load the html in the controller we need to import some cdn provided by the react.
 These cdn provide the requested content that is needed by html to integrate react.
