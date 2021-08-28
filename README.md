@@ -1,10 +1,14 @@
 # Documentation
 
 ## Project setup
-
-Install flutter and dart on your machine.
-Create a flutter project using 'flutter create app' command.
-
+1. Create a folder where you want to download the project.
+2. Copy the https link from Code.
+3. Cd into the folder and type git clone <https-link>
+4. Cd into flutter-react-integration-demo project and type flutter pub get
+5. Run the project using flutter run
+   By default flutter runs on web,
+   If you want to run the project on mobile connect your mobile device using a usb or start a simulator/emulator.
+  
 ## Integrating webview
 
 In order to integrate webview in flutter we have used a package called webview_flutter.
